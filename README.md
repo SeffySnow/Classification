@@ -1,3 +1,4 @@
-This repository provides a comprehensive Python-based approach to classifying and analyzing the MNIST dataset, a benchmark in computer vision and machine learning. It showcases a diverse range of methods for tackling binary and multiclass classification tasks, with the dual aim of exploring machine learning algorithms and demonstrating practical data analysis techniques.
+This repository represents my understanding and practical implementation of various classification methods in machine learning. It serves as a demonstration of my skills in applying binary and multiclass classification techniques, performance evaluation, and leveraging both traditional and deep learning methods.
 
-By combining traditional machine learning classifiers, advanced evaluation metrics, and deep learning strategies, this project serves as a valuable resource for anyone looking to understand the fundamentals of classification or refine their modeling techniques.
+The code is inspired by and builds upon concepts from the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron. It is a practical exploration of theoretical concepts brought to life through coding.
+https://g.co/kgs/U3NNHH4
